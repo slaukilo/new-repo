@@ -1,3 +1,7 @@
+#![allow(dead_code)]
+#![allow(unused_variables)]
+#![allow(unused_imports)]
+
 use clap::{Arg, ArgMatches, Command};
 use std::process;
 fn main() {
