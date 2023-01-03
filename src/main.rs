@@ -2,6 +2,8 @@
 #![allow(unused_variables)]
 #![allow(unused_imports)]
 
+mod util;
+
 use clap::{Arg, ArgMatches, Command};
 use std::process;
 fn main() {
